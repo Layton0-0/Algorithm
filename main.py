@@ -1,7 +1,10 @@
-letter = input()
+maxNum = int(input())
+num = 0
+sumNum = num
 
-while letter != 'q':
-  print(letter)
-  letter = input()
-
-print(letter)
+while 1:
+  num += 1
+  sumNum += num
+  if maxNum <= sumNum:
+    print(num)
+    break
