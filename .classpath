@@ -8,5 +8,6 @@
 	<classpathentry excluding="스택,큐/" kind="src" path="기본 코드"/>
 	<classpathentry excluding="실전문제/" kind="src" path="이코테"/>
 	<classpathentry kind="src" path="이코테/실전문제"/>
+	<classpathentry kind="src" path="백준/실버"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
