@@ -24,6 +24,7 @@ public class QuickSort {
 				arr[right] = temp;
 			}
 		}
+		// right값과 pivot 값을 바꿨기 때문에 right 위치 전달
 		quickSort(arr, start, right - 1);
 		quickSort(arr, right + 1, end);
 	}
