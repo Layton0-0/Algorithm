@@ -1,4 +1,4 @@
-package searching;
+package Java.searching;
 
 import java.util.*;
 

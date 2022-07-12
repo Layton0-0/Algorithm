@@ -5,6 +5,20 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
+			"type": "java",
+			"name": "Launch 해수면",
+			"request": "launch",
+			"mainClass": "samsung.Java.해수면",
+			"projectName": "Algorithm"
+		},
+		{
+			"type": "java",
+			"name": "Launch Dfs",
+			"request": "launch",
+			"mainClass": "Java.dfsBfs.Dfs",
+			"projectName": "Algorithm"
+		},
+		{
 			"name": "Python: 현재 파일",
 			"type": "python",
 			"request": "launch",

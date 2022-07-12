@@ -1,4 +1,4 @@
-package dynamicPrograming;
+package Java.dynamicPrograming;
 
 public class Fibonacci {
 	public static int fibo(int x) {

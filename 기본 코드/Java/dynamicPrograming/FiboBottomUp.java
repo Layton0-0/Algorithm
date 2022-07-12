@@ -1,4 +1,4 @@
-package dynamicPrograming;
+package Java.dynamicPrograming;
 
 public class FiboBottomUp {
 	

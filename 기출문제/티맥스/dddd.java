@@ -9,7 +9,6 @@ public class dddd {
 		Set<String> set = new HashSet<String>();
 		String str = "asdfd";
 		str.split(str);
-		set.si
 	}
 
 }

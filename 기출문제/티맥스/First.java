@@ -1,6 +1,5 @@
 package 기출문제.티맥스;
 
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.LinkedList;

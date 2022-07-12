@@ -1,4 +1,4 @@
-package sorting;
+package Java.sorting;
 
 public class QuickSort {
 	

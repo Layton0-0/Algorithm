@@ -1,4 +1,4 @@
-package dfsBfs;
+package Java.dfsBfs;
 
 public class DfsBfs {
 

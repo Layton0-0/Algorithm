@@ -1,6 +1,5 @@
 package 기출문제.티맥스;
 
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Scanner;
 
@@ -13,7 +12,7 @@ public class LevelHigh {
 	}
 	
 	int[] solution() {
-		int[] sol;
+		int[] sol = new int[500];
 		Scanner sc = new Scanner(System.in);
 		int total_sp = sc.nextInt();
 		int[][] skills = {
