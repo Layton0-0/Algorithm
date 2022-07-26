@@ -6,6 +6,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "Launch wordSort1181",
+			"request": "launch",
+			"mainClass": "wordSort1181",
+			"projectName": "Algorithm"
+		},
+		{
+			"type": "java",
 			"name": "Launch 해수면",
 			"request": "launch",
 			"mainClass": "samsung.Java.해수면",
