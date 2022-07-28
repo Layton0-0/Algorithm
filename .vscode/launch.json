@@ -6,6 +6,27 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "Launch Main",
+			"request": "launch",
+			"mainClass": "백준.실버.sortPos11651.Main",
+			"projectName": "Algorithm_6fde2e95"
+		},
+		{
+			"type": "java",
+			"name": "Launch 해수면",
+			"request": "launch",
+			"mainClass": "samsung.Java.해수면",
+			"projectName": "Algorithm_6fde2e95"
+		},
+		{
+			"type": "java",
+			"name": "Launch wordSort1181",
+			"request": "launch",
+			"mainClass": "백준.실버.wordSort1181",
+			"projectName": "Algorithm_6fde2e95"
+		},
+		{
+			"type": "java",
 			"name": "Launch wordSort1181",
 			"request": "launch",
 			"mainClass": "wordSort1181",
