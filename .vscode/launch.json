@@ -6,6 +6,34 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "Launch StringBasic",
+			"request": "launch",
+			"mainClass": "Java.basic.StringBasic",
+			"projectName": "Algorithm_6fde2e95"
+		},
+		{
+			"type": "java",
+			"name": "Launch ListBasic",
+			"request": "launch",
+			"mainClass": "Java.basic.ListBasic",
+			"projectName": "Algorithm_6fde2e95"
+		},
+		{
+			"type": "java",
+			"name": "Launch StringBuilderBasic",
+			"request": "launch",
+			"mainClass": "Java.basic.StringBuilderBasic",
+			"projectName": "Algorithm_6fde2e95"
+		},
+		{
+			"type": "java",
+			"name": "Launch StudyBasic",
+			"request": "launch",
+			"mainClass": "Java.basic.StudyBasic",
+			"projectName": "Algorithm_6fde2e95"
+		},
+		{
+			"type": "java",
 			"name": "Launch Main",
 			"request": "launch",
 			"mainClass": "백준.실버.q10867.Main",
