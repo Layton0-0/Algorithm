@@ -1,3 +1,4 @@
+# popleft사용해서 큐 구현
 from collections import deque
 
 
